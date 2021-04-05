@@ -6,3 +6,6 @@ Build a xamarin app using new techniques
 ## Focused Effect
 ## Platform specific 
 
+<p align="center">
+  <img src="https://github.com/Osv04/CustomizationsOnXamarin/blob/master/PageScreen.jpg">
+</p>
